@@ -1,5 +1,5 @@
 # 👋Hi,I'm Vaibhav!
-🔭 I’m Vaibhav Chaurasiya<br>👯 I’m currently pursuing Bachelors of Computer Application<br>🤝 I’m looking for Job Opportunity in Tech Field<br>🌱 I’m currently learning Java , Python , Ethical Hacking <br>💬 Join me to Grow Together<br>
+🔭 I’m Vaibhav Chaurasiya<br>👯 I have Completed Bachelors of Computer Application<br>🤝 I’m looking for Job Opportunity in Tech Field<br>🌱 I’m currently learning Java , Python , Ethical Hacking <br>💬 Join me to Grow Together<br>
 
 
 ## 🌐 Socials:
