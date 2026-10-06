@@ -1,218 +1,201 @@
-# 👋 Hi, I'm Vaibhav!
+<div align="center">
 
-<p align="center">
-  <img src="./assets/id.png" alt="Vaibhav Chaurasiya" width="260">
-</p>
+# Vaibhav Chaurasiya
 
-<h3 align="center">💻 Software Developer | Full-Stack Developer | AI Builder</h3>
+### Software Developer · Full-Stack · AI Applications
 
-<p align="center">
-  I build practical web applications, AI-powered tools and API-driven systems.
-  <br>
-  I enjoy solving problems, debugging applications and turning ideas into working products.
-</p>
+I build web applications, APIs and AI-powered products with a focus on  
+**clean implementation, debugging, usability and continuous learning.**
 
-<p align="center">
+<p>
   <a href="https://github.com/Vaibhav-Chaurasiya">
-    <img src="https://img.shields.io/badge/GitHub-Vaibhav--Chaurasiya-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Vaibhav--Chaurasiya-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-chaurasiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vaibhavchaurasiya50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
----
+<img src="./assets/id.png" alt="Vaibhav Chaurasiya" width="300">
 
-## 🚀 About Me
-
-- 🔭 I'm **Vaibhav Chaurasiya**, a Software Developer from Noida, India.
-- 🎓 Completed **Bachelor of Computer Applications (BCA)**.
-- 🎓 Currently pursuing **Master of Computer Applications (MCA), 2025–2027**.
-- 💼 Experienced in **MERN stack development, REST APIs, debugging and technical troubleshooting**.
-- 🤝 Looking for opportunities in the **Tech / Software Development field**.
-- 🌱 Currently learning and strengthening **Java, Python, Ethical Hacking and modern development practices**.
-- 💬 I believe in learning by building, breaking, debugging and improving.
-- ⚡ Fun fact: I enjoy badminton, running, cycling and building mini projects.
+</div>
 
 ---
 
-## 🧑‍💻 What I Actually Build
+## About
 
-I don't just collect technologies — I try to use them to build things.
+I'm a Software Developer from **Noida, India**, with hands-on experience across full-stack development, REST APIs, application debugging and technical troubleshooting.
 
-### 🌐 Full-Stack Development
-Building responsive web applications with React, Node.js, Express.js, REST APIs, authentication and databases.
+I completed my **BCA (2022–2025)** and am currently pursuing an **MCA (2025–2027)**.
 
-### 🤖 AI & GenAI
-Working with Generative AI, API integrations, document processing and Retrieval-Augmented Generation (RAG).
+My approach is simple:
 
-### 🛠️ Debugging & Problem Solving
-Finding frontend/backend issues, troubleshooting applications, testing APIs and improving reliability.
+> **Build → Test → Debug → Improve → Ship**
 
-### 🔌 Automation & Systems
-Interested in automation, technical support, APIs, deployment workflows and practical software solutions.
+I prefer learning technologies by using them to solve real problems rather than collecting tools on a resume.
+
+### What I work on
+
+- Full-stack web applications
+- REST API integration and authentication
+- React-based interfaces and backend services
+- MongoDB / MySQL data-driven applications
+- Generative AI and RAG-based applications
+- API testing, debugging and troubleshooting
+- Deployment and Git-based development workflows
+- Practical automation and developer tooling
 
 ---
 
-## 🔥 Featured Projects
+## Selected Work
 
-### 🤖 PrepMate AI — AI Powered Interview Coach
+### PrepMate AI — AI Interview Coach
 
-An intelligent interview preparation platform designed to help candidates practise for real interviews.
+An AI-powered interview preparation platform built around practical interview practice.
 
-**Highlights**
+**What it does**
 - Role-based interview simulations
 - Voice feedback
 - Resume ↔ Job Description matching
 - Generative AI powered workflows
 
-🔗 **Live:** https://interview-coach-kappa.vercel.app/
+**Live:** https://interview-coach-kappa.vercel.app/
 
 ---
 
-### ⚖️ AI Lawyer — AI Powered Legal Assistant
+### AI Lawyer — GenAI + RAG Legal Assistant
 
-A GenAI + RAG based application for legal document analysis and question answering.
+An AI application focused on document analysis and question answering.
 
-**Highlights**
+**What it does**
 - Document upload and processing
 - Legal document summarization
-- RAG-based question answering
+- Retrieval-Augmented Generation (RAG)
 - LLM API integration
-- User-focused document workflows
+- Case-related question answering
 
-🔗 **Live:** https://ai-lawyer-mu.vercel.app/
+**Live:** https://ai-lawyer-mu.vercel.app/
 
 ---
 
-### 🖨️ Smart Human Less Printer — IoT Project
+### Smart Human Less Printer — IoT System
 
-A Raspberry Pi based self-service printing system.
+A Raspberry Pi based self-service printing system designed around automated document handling.
 
-**Highlights**
+**Key areas**
 - Secure document upload
 - UPI / Card payment integration
 - Automated printing
-- Real-time system monitoring
+- Real-time monitoring
 
 ---
 
-## 💼 Experience
+## Engineering Experience
 
 ### Web Developer — SuPav Solutions
-**Oct 2025 – Mar 2026 | Greater Noida**
+**Oct 2025 – Mar 2026 · Greater Noida**
 
 - Built and maintained MERN stack web applications.
 - Designed and integrated REST APIs.
 - Implemented JWT-based authentication.
 - Worked with MongoDB and MySQL.
-- Debugged, tested and optimized applications.
-- Collaborated on code reviews, troubleshooting and delivery.
+- Debugged, tested and optimized frontend/backend applications.
+- Collaborated on troubleshooting, code reviews and application delivery.
 
 ### Web Developer Intern — Code Eternity
-**Apr 2025 – Jun 2025 | Noida**
+**Apr 2025 – Jun 2025 · Noida**
 
-- Developed responsive web applications using the MERN stack.
+- Developed responsive applications using the MERN stack.
 - Integrated RESTful APIs and authentication.
 - Worked on frontend performance and debugging.
 - Participated in code reviews and deployment activities.
 
 ---
 
-## 🧰 Tech Stack
+## Technology
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
 
-### AI / Tools / DevOps
-![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Backend & Data
 
-### IT Support & Enterprise Fundamentals
-`Windows` `Linux` `LAN` `Wi-Fi` `IP` `DNS` `ITSM` `ServiceNow` `Incident Management` `CMDB` `SAP Fundamentals`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![REST](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square)
 
----
+### AI, Tools & Platforms
 
-## 📊 GitHub Stats
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Chaurasiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Chaurasiya&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhav-Chaurasiya&theme=tokyonight&hide_border=true" width="70%">
-</p>
+**Also familiar with:** Windows · LAN · Wi-Fi · IP · DNS · ITSM · ServiceNow fundamentals · Incident Management · CMDB · SAP fundamentals
 
 ---
 
-## 🏆 GitHub Trophies
+## How I Think About Development
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-Chaurasiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="90%">
-</p>
+```text
+Understand the problem
+        ↓
+Design the simplest workable solution
+        ↓
+Build the feature
+        ↓
+Test the edge cases
+        ↓
+Debug what breaks
+        ↓
+Refactor what can be better
+        ↓
+Ship
+```
 
----
-
-## 📈 My GitHub Journey
-
-I'm using GitHub as more than a place to store code.
-
-I use it to:
-
-- 🧠 Learn by building real projects
-- 🐛 Debug and improve my implementations
-- 🚀 Experiment with new technologies
-- 🤖 Explore AI and automation
-- 📚 Keep learning consistently
-- 🤝 Share and collaborate on software
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-Chaurasiya&theme=tokyo-night&hide_border=true" width="100%">
-</p>
+I'm especially interested in the space where **software development, AI and automation** meet.
 
 ---
 
-## 🌐 Socials
+## GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-chaurasiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/vaibhavchaurasiya50"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/itsvaibhav50"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://youtube.com/@careersvaibhav"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://github.com/Vaibhav-Chaurasiya"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Chaurasiya&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Chaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vaibhav-Chaurasiya&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-Chaurasiya&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution graph">
 </p>
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Computer Applications (MCA)**  
 Amity University, Noida · **2025–2027**
@@ -222,7 +205,7 @@ Veer Bahadur Singh Purvanchal University · **2022–2025**
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Introduction to Generative AI** — Google Cloud Skill Boost
 - **Domestic IT Helpdesk Attendant** — NSQF Level 4
@@ -230,22 +213,45 @@ Veer Bahadur Singh Purvanchal University · **2022–2025**
 
 ---
 
-## 🤝 Let's Grow Together
+## Currently Learning
 
-I'm actively looking for opportunities where I can contribute, learn from experienced developers and keep building useful technology.
-
-**If you're working on something interesting, let's connect.**
-
-<p align="center">
-  <img src="./assets/right_pointing.png" alt="Vaibhav pointing toward the links" width="420">
-</p>
-
-<p align="center">
-  <b>💬 Join me to Grow Together.</b>
-</p>
+```text
+Java
+Python
+Ethical Hacking
+System & API fundamentals
+AI application development
+Better software engineering practices
+```
 
 ---
 
+## Beyond Code
+
+When I'm not building something, you'll usually find me exploring new technology, working on a mini project, debugging something that should have worked, or playing **badminton, running and cycling**.
+
+---
+
+## Let's Connect
+
+I'm open to **Software Development, Full-Stack, AI/GenAI and related technology opportunities**.
+
+If you're building something interesting, working on a useful product, or simply want to talk tech:
+
+**Let's connect.**
+
 <p align="center">
-  <i>Build. Break. Debug. Learn. Repeat.</i>
+  <a href="https://www.linkedin.com/in/vaibhav-chaurasiya/">LinkedIn</a> ·
+  <a href="https://github.com/Vaibhav-Chaurasiya">GitHub</a> ·
+  <a href="mailto:vaibhavchaurasiya50@gmail.com">Email</a>
 </p>
+
+<p align="center">
+  <img src="./assets/right_pointing.png" alt="Vaibhav Chaurasiya" width="430">
+</p>
+
+<div align="center">
+
+**Build. Debug. Learn. Ship.**
+
+</div>
