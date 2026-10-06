@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0c1324"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#247bff"/><stop offset=".52" stop-color="#8aaeff"/><stop offset="1" stop-color="#ff354f"/>
+  </linearGradient>
+  <filter id="glowBlue"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".38"/></filter>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".08"/></pattern>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+    .white{fill:#f4f7ff} .muted{fill:#9ba8c2} .blue{fill:#247bff} .red{fill:#ff354f}
+    
+  </style>
+</defs>
+<rect width="1200" height="650" rx="34" fill="url(#bg)"/>
+<rect width="1200" height="650" rx="34" fill="url(#dots)"/>
+<rect x="20" y="20" width="1160" height="610" rx="26" fill="none" stroke="url(#edge)" stroke-opacity=".55"/>
+
+<text x="70" y="82" class="mono blue" font-size="18" letter-spacing="3">02 / TECH RADAR</text>
+<text x="70" y="145" class="sans white" font-size="44" font-weight="800">TOOLS I BUILD WITH.</text>
+<text x="70" y="184" class="sans muted" font-size="20">A practical stack across frontend, backend, data and AI.</text>
+<g transform="translate(70,245)">
+ <rect width="1060" height="250" rx="26" fill="#0d1629" stroke="#1d3154"/>
+ <g transform="translate(48,48)" class="mono" font-size="16">
+   <text x="0" y="0" class="blue">FRONTEND</text>
+   <text x="0" y="38" class="white">React.js • HTML5 • CSS3 • Tailwind CSS • Next.js</text>
+   <text x="0" y="92" class="red">BACKEND &amp; APIs</text>
+   <text x="0" y="130" class="white">Node.js • Express.js • REST APIs • JWT • Python</text>
+   <text x="0" y="184" class="blue">DATA / AI / DEVOPS</text>
+   <text x="0" y="222" class="white">MongoDB • MySQL • GenAI • RAG • Git/GitHub • Postman • Vercel • Docker</text>
+ </g>
+</g>
+<g opacity=".8">
+ <ellipse cx="960" cy="360" rx="115" ry="42" fill="none" stroke="#247bff" stroke-width="2" transform="rotate(-25 960 360)"/>
+ <ellipse cx="960" cy="360" rx="115" ry="42" fill="none" stroke="#ff354f" stroke-width="2" transform="rotate(25 960 360)"/>
+ <circle cx="960" cy="360" r="11" fill="#fff" filter="url(#glowBlue)"/>
+</g>
+
+</svg>
