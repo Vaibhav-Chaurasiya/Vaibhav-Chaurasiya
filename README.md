@@ -1,257 +1,174 @@
 <div align="center">
 
-# Vaibhav Chaurasiya
+<img src="./assets/banner.svg" alt="Vaibhav Chaurasiya - Full-Stack Developer and AI Builder" width="100%"/>
 
-### Software Developer · Full-Stack · AI Applications
-
-I build web applications, APIs and AI-powered products with a focus on  
-**clean implementation, debugging, usability and continuous learning.**
+<a href="https://github.com/Vaibhav-Chaurasiya/Vaibhav-Chaurasiya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=720&height=50&lines=I+build+practical+web+apps;MERN+%7C+REST+APIs+%7C+GenAI+%7C+RAG;I+learn+by+building%2C+breaking+and+debugging;Open+to+Software+Developer+roles" alt="Typing animation" />
+</a>
 
 <p>
-  <a href="https://github.com/Vaibhav-Chaurasiya">
-    <img src="https://img.shields.io/badge/GitHub-Vaibhav--Chaurasiya-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-chaurasiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:vaibhavchaurasiya50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://img.shields.io/badge/Noida-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00f5a0" />
+  <img src="https://img.shields.io/badge/MCA-Amity_University-0d1117?style=for-the-badge&logo=academia&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00f5a0" />
 </p>
 
-<img src="./assets/id.png" alt="Vaibhav Chaurasiya" width="300">
+<a href="https://www.linkedin.com/in/vaibhav-chaurasiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vaibhavchaurasiya50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Vaibhav-Chaurasiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Vaibhav-Chaurasiya&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## About
+## `> cat about.js`
 
-I'm a Software Developer from **Noida, India**, with hands-on experience across full-stack development, REST APIs, application debugging and technical troubleshooting.
-
-I completed my **BCA (2022–2025)** and am currently pursuing an **MCA (2025–2027)**.
-
-My approach is simple:
-
-> **Build → Test → Debug → Improve → Ship**
-
-I prefer learning technologies by using them to solve real problems rather than collecting tools on a resume.
-
-### What I work on
-
-- Full-stack web applications
-- REST API integration and authentication
-- React-based interfaces and backend services
-- MongoDB / MySQL data-driven applications
-- Generative AI and RAG-based applications
-- API testing, debugging and troubleshooting
-- Deployment and Git-based development workflows
-- Practical automation and developer tooling
-
----
-
-## Selected Work
-
-### PrepMate AI — AI Interview Coach
-
-An AI-powered interview preparation platform built around practical interview practice.
-
-**What it does**
-- Role-based interview simulations
-- Voice feedback
-- Resume ↔ Job Description matching
-- Generative AI powered workflows
-
-**Live:** https://interview-coach-kappa.vercel.app/
-
----
-
-### AI Lawyer — GenAI + RAG Legal Assistant
-
-An AI application focused on document analysis and question answering.
-
-**What it does**
-- Document upload and processing
-- Legal document summarization
-- Retrieval-Augmented Generation (RAG)
-- LLM API integration
-- Case-related question answering
-
-**Live:** https://ai-lawyer-mu.vercel.app/
-
----
-
-### Smart Human Less Printer — IoT System
-
-A Raspberry Pi based self-service printing system designed around automated document handling.
-
-**Key areas**
-- Secure document upload
-- UPI / Card payment integration
-- Automated printing
-- Real-time monitoring
-
----
-
-## Engineering Experience
-
-### Web Developer — SuPav Solutions
-**Oct 2025 – Mar 2026 · Greater Noida**
-
-- Built and maintained MERN stack web applications.
-- Designed and integrated REST APIs.
-- Implemented JWT-based authentication.
-- Worked with MongoDB and MySQL.
-- Debugged, tested and optimized frontend/backend applications.
-- Collaborated on troubleshooting, code reviews and application delivery.
-
-### Web Developer Intern — Code Eternity
-**Apr 2025 – Jun 2025 · Noida**
-
-- Developed responsive applications using the MERN stack.
-- Integrated RESTful APIs and authentication.
-- Worked on frontend performance and debugging.
-- Participated in code reviews and deployment activities.
-
----
-
-## Technology
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
-
-### Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![REST](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square)
-
-### AI, Tools & Platforms
-
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-
-**Also familiar with:** Windows · LAN · Wi-Fi · IP · DNS · ITSM · ServiceNow fundamentals · Incident Management · CMDB · SAP fundamentals
-
----
-
-## How I Think About Development
-
-```text
-Understand the problem
-        ↓
-Design the simplest workable solution
-        ↓
-Build the feature
-        ↓
-Test the edge cases
-        ↓
-Debug what breaks
-        ↓
-Refactor what can be better
-        ↓
-Ship
+```js
+const vaibhav = {
+  role: "Software Developer | Full-Stack | AI Builder",
+  location: "Noida, India",
+  education: [
+    "MCA  @ Amity University, Noida (2025-2027)",
+    "BCA  @ VBSPU (2022-2025)",
+  ],
+  stack: ["React", "Node.js", "Express", "MongoDB", "MySQL", "REST APIs"],
+  exploring: ["Generative AI", "RAG", "Java", "Python", "Ethical Hacking"],
+  funFacts: ["badminton", "running", "cycling", "mini projects"],
+  motto: "Build. Break. Debug. Learn. Repeat.",
+  lookingFor: "Software Development opportunities",
+};
 ```
 
-I'm especially interested in the space where **software development, AI and automation** meet.
+<img src="./assets/divider.svg" width="100%" />
 
----
+## `> ls projects/`
 
-## GitHub Activity
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://interview-coach-kappa.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-Chaurasiya&repo=interview-coach&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <b>PrepMate AI</b> - AI interview coach with role-based simulations, voice feedback and Resume-to-JD matching.
+      <br/><a href="https://interview-coach-kappa.vercel.app/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ai-lawyer-mu.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-Chaurasiya&repo=AI-Lawyer&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <b>AI Lawyer</b> - GenAI + RAG legal assistant: document upload, summaries and question answering.
+      <br/><a href="https://ai-lawyer-mu.vercel.app/">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Vaibhav-Chaurasiya/Vaibhav-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-Chaurasiya&repo=Vaibhav-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <b>Portfolio</b> - my personal portfolio website.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Vaibhav-Chaurasiya/TelegramVideoDownloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-Chaurasiya&repo=TelegramVideoDownloader&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <b>Telegram Video Downloader</b> - Python automation tool.
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Chaurasiya&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Chaurasiya&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages">
-</p>
+> **Also built:** Smart Human Less Printer, a Raspberry Pi self-service printing system with secure upload, UPI/card payments and automated printing.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhav-Chaurasiya&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak">
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-Chaurasiya&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution graph">
-</p>
+## `> npm run skills`
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cs,react,html,css,tailwind,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vercel,docker,linux&perline=10" />
+</div>
 
-## Education
+<details>
+<summary><b>IT Support & Enterprise fundamentals</b></summary>
+<br/>
 
-**Master of Computer Applications (MCA)**  
-Amity University, Noida · **2025–2027**
+`Windows` `Linux` `LAN` `Wi-Fi` `IP` `DNS` `ITSM` `ServiceNow` `Incident Management` `CMDB` `SAP Fundamentals`
 
-**Bachelor of Computer Applications (BCA)**  
-Veer Bahadur Singh Purvanchal University · **2022–2025**
+</details>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## Certifications
+## `> git log --experience`
 
-- **Introduction to Generative AI** — Google Cloud Skill Boost
-- **Domestic IT Helpdesk Attendant** — NSQF Level 4
-- **Development Soft Skills That Industry Demand** — TCS iON
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Web Developer</b> - SuPav Solutions<br/>
+      <sub>Oct 2025 - Mar 2026 | Greater Noida</sub>
+      <ul>
+        <li>Built and maintained MERN stack apps</li>
+        <li>Designed REST APIs with JWT authentication</li>
+        <li>Worked with MongoDB and MySQL</li>
+        <li>Debugging, testing, code reviews</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>Web Developer Intern</b> - Code Eternity<br/>
+      <sub>Apr 2025 - Jun 2025 | Noida</sub>
+      <ul>
+        <li>Responsive MERN web applications</li>
+        <li>Integrated RESTful APIs and auth</li>
+        <li>Frontend performance and debugging</li>
+        <li>Code reviews and deployments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## Currently Learning
+## `> github --stats`
 
-```text
-Java
-Python
-Ethical Hacking
-System & API fundamentals
-AI application development
-Better software engineering practices
-```
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Chaurasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Chaurasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Vaibhav-Chaurasiya&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-Chaurasiya&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
 
-## Beyond Code
+<img src="./assets/divider.svg" width="100%" />
 
-When I'm not building something, you'll usually find me exploring new technology, working on a mini project, debugging something that should have worked, or playing **badminton, running and cycling**.
+## `> snake --eat contributions`
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-Chaurasiya/Vaibhav-Chaurasiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-Chaurasiya/Vaibhav-Chaurasiya/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vaibhav-Chaurasiya/Vaibhav-Chaurasiya/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
-## Let's Connect
+<img src="./assets/divider.svg" width="100%" />
 
-I'm open to **Software Development, Full-Stack, AI/GenAI and related technology opportunities**.
+## `> cat certifications.txt`
 
-If you're building something interesting, working on a useful product, or simply want to talk tech:
+- **Introduction to Generative AI** - Google Cloud Skill Boost
+- **Domestic IT Helpdesk Attendant** - NSQF Level 4
+- **Development Soft Skills That Industry Demand** - TCS iON
 
-**Let's connect.**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-chaurasiya/">LinkedIn</a> ·
-  <a href="https://github.com/Vaibhav-Chaurasiya">GitHub</a> ·
-  <a href="mailto:vaibhavchaurasiya50@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="./assets/right_pointing.png" alt="Vaibhav Chaurasiya" width="430">
-</p>
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 
-**Build. Debug. Learn. Ship.**
+### Let's build something together
+
+If you're working on something interesting, say hi.
+
+<a href="mailto:vaibhavchaurasiya50@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-00f5a0?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-chaurasiya"><img src="https://img.shields.io/badge/Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&text=Build.%20Break.%20Debug.%20Learn.%20Repeat.&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>

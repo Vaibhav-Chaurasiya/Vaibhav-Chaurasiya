@@ -1,0 +1,86 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#1a1033"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5a0">
+        <animate attributeName="stop-color" values="#00f5a0;#00d9f5;#a78bfa;#00f5a0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#00f5a0;#00d9f5;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5a0"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#00d9f5"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="type">
+      <rect x="60" y="95" width="0" height="80">
+        <animate attributeName="width" from="0" to="900" dur="2.2s" begin="0.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code','JetBrains Mono','Courier New',monospace; }
+    .sym { font-family: 'Courier New',monospace; font-size: 26px; fill: #a78bfa; opacity: .22; }
+    .f1 { animation: float 7s ease-in-out infinite; }
+    .f2 { animation: float 9s ease-in-out infinite reverse; }
+    .f3 { animation: float 6s ease-in-out infinite 1s; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-18px); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+
+  <!-- moving glow blobs -->
+  <circle r="90" cy="60" fill="#00f5a0" opacity=".28" filter="url(#blur)">
+    <animate attributeName="cx" values="120;420;120" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="100" cy="230" fill="#7c3aed" opacity=".35" filter="url(#blur)">
+    <animate attributeName="cx" values="880;560;880" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating code symbols -->
+  <text class="sym f1" x="820" y="70">{ }</text>
+  <text class="sym f2" x="900" y="170">&lt;/&gt;</text>
+  <text class="sym f3" x="740" y="230">;</text>
+  <text class="sym f2" x="560" y="50">( )</text>
+  <text class="sym f1" x="640" y="245">[ ]</text>
+  <text class="sym f3" x="940" y="60">=&gt;</text>
+
+  <!-- terminal prompt -->
+  <text class="mono" x="60" y="62" font-size="18" fill="#6b7280">
+    <tspan fill="#00f5a0">vaibhav@noida</tspan><tspan fill="#6b7280">:~$ </tspan><tspan fill="#e5e7eb">whoami</tspan>
+  </text>
+
+  <rect class="cursor" x="314" y="46" width="10" height="20" fill="#00f5a0"/>
+
+  <!-- name typing in -->
+  <g clip-path="url(#type)">
+    <text class="mono" x="60" y="160" font-size="64" font-weight="700" fill="url(#name)">VAIBHAV CHAURASIYA</text>
+  </g>
+
+  <!-- cycling roles -->
+  <g class="mono" font-size="24" fill="#e5e7eb">
+    <text x="60" y="215" opacity="1">&gt; Full-Stack Developer
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.3333" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="215" opacity="0">&gt; AI Builder | GenAI + RAG
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3333;0.6667" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="215" opacity="0">&gt; Debugger. Builder. Learner.
+      <animate attributeName="opacity" values="0;1" keyTimes="0;0.6667" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- animated border -->
+  <rect x="2" y="2" width="996" height="276" rx="17" fill="none" stroke="url(#border)" stroke-width="2" stroke-dasharray="40 14" opacity=".8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-108" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
