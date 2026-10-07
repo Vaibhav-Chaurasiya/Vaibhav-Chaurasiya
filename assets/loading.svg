@@ -1,0 +1,61 @@
+<svg width="1000" height="272" viewBox="0 0 1000 272" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .m{font-family:'Fira Code','JetBrains Mono','Courier New',monospace}
+    .blink{animation:b 1s steps(1) infinite} @keyframes b{50%{opacity:0}}
+  </style>
+  <rect x="1" y="1" width="998" height="270" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="28" cy="28" r="6" fill="#ff5f56"/><circle cx="48" cy="28" r="6" fill="#ffbd2e"/><circle cx="68" cy="28" r="6" fill="#27c93f"/>
+  <text class="m" x="94" y="33" font-size="15" fill="#8b949e">~/vaibhav/currently-loading</text>
+  <text class="m" x="970" y="33" font-size="15" fill="#00f5a0" text-anchor="end">running<tspan class="blink">_</tspan></text>
+  <text class="m" x="34" y="84" font-size="16" fill="#e5e7eb">Java</text>
+  <rect x="300" y="69" width="560" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <rect x="300" y="69" width="0" height="18" rx="9" fill="#00f5a0">
+    <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.75;0.92;1" dur="4.0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="300" y="69" width="70" height="18" rx="9" fill="url(#shine)">
+    <animate attributeName="x" values="300;790" dur="2.0s" repeatCount="indefinite"/>
+  </rect>
+  <text class="m" x="970" y="84" font-size="14" fill="#00f5a0" text-anchor="end">in progress
+    <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <text class="m" x="34" y="132" font-size="16" fill="#e5e7eb">GenAI + RAG apps</text>
+  <rect x="300" y="117" width="560" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <rect x="300" y="117" width="0" height="18" rx="9" fill="#00d9f5">
+    <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.75;0.92;1" dur="5.0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="300" y="117" width="70" height="18" rx="9" fill="url(#shine)">
+    <animate attributeName="x" values="300;790" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <text class="m" x="970" y="132" font-size="14" fill="#00d9f5" text-anchor="end">in progress
+    <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <text class="m" x="34" y="180" font-size="16" fill="#e5e7eb">Ethical Hacking</text>
+  <rect x="300" y="165" width="560" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <rect x="300" y="165" width="0" height="18" rx="9" fill="#a78bfa">
+    <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.75;0.92;1" dur="6.0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="300" y="165" width="70" height="18" rx="9" fill="url(#shine)">
+    <animate attributeName="x" values="300;790" dur="3.0s" repeatCount="indefinite"/>
+  </rect>
+  <text class="m" x="970" y="180" font-size="14" fill="#a78bfa" text-anchor="end">in progress
+    <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <text class="m" x="34" y="228" font-size="16" fill="#e5e7eb">Shipping real projects</text>
+  <rect x="300" y="213" width="560" height="18" rx="9" fill="#161b22" stroke="#30363d"/>
+  <rect x="300" y="213" width="0" height="18" rx="9" fill="#f472b6">
+    <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.75;0.92;1" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="300" y="213" width="70" height="18" rx="9" fill="url(#shine)">
+    <animate attributeName="x" values="300;790" dur="2.25s" repeatCount="indefinite"/>
+  </rect>
+  <text class="m" x="970" y="228" font-size="14" fill="#f472b6" text-anchor="end">in progress
+    <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+</svg>

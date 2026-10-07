@@ -1,0 +1,129 @@
+<svg width="1000" height="440" viewBox="0 0 1000 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#00f5a0"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <style>.m{font-family:'Fira Code','JetBrains Mono','Courier New',monospace}</style>
+  <circle cx="500" cy="220" r="85" fill="none" stroke="#00f5a0" stroke-width="1.2" stroke-dasharray="3 7" opacity=".55"/>
+  <circle cx="500" cy="220" r="140" fill="none" stroke="#00d9f5" stroke-width="1.2" stroke-dasharray="3 7" opacity=".55"/>
+  <circle cx="500" cy="220" r="195" fill="none" stroke="#a78bfa" stroke-width="1.2" stroke-dasharray="3 7" opacity=".55"/>
+  <circle cx="500" cy="220" r="48" fill="#7c3aed" opacity=".6" filter="url(#glow)">
+    <animate attributeName="r" values="42;56;42" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="220" r="40" fill="url(#core)">
+    <animate attributeName="r" values="38;42;38" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <text class="m" x="500" y="218" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0f1a">FULL</text>
+  <text class="m" x="500" y="235" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0f1a">STACK</text>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0.0 500 220" to="360.0 500 220" dur="24s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-0.0 585 220" to="-360.0 585 220" dur="24s" repeatCount="indefinite"/>
+      <rect x="555.0" y="205" width="60.0" height="30" rx="15" fill="#111827" stroke="#00f5a0" stroke-width="1.6"/>
+      <circle cx="568.0" cy="220" r="3.5" fill="#00f5a0"/>
+      <text class="m" x="590.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">React</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="120.0 500 220" to="480.0 500 220" dur="24s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-120.0 585 220" to="-480.0 585 220" dur="24s" repeatCount="indefinite"/>
+      <rect x="545.8" y="205" width="78.4" height="30" rx="15" fill="#111827" stroke="#00f5a0" stroke-width="1.6"/>
+      <circle cx="558.8" cy="220" r="3.5" fill="#00f5a0"/>
+      <text class="m" x="590.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Node.js</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="240.0 500 220" to="600.0 500 220" dur="24s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-240.0 585 220" to="-600.0 585 220" dur="24s" repeatCount="indefinite"/>
+      <rect x="545.8" y="205" width="78.4" height="30" rx="15" fill="#111827" stroke="#00f5a0" stroke-width="1.6"/>
+      <circle cx="558.8" cy="220" r="3.5" fill="#00f5a0"/>
+      <text class="m" x="590.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">MongoDB</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0.0 500 220" to="-360.0 500 220" dur="34s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-0.0 640 220" to="360.0 640 220" dur="34s" repeatCount="indefinite"/>
+      <rect x="600.8" y="205" width="78.4" height="30" rx="15" fill="#111827" stroke="#00d9f5" stroke-width="1.6"/>
+      <circle cx="613.8" cy="220" r="3.5" fill="#00d9f5"/>
+      <text class="m" x="645.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Express</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="90.0 500 220" to="-270.0 500 220" dur="34s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-90.0 640 220" to="270.0 640 220" dur="34s" repeatCount="indefinite"/>
+      <rect x="610.0" y="205" width="60.0" height="30" rx="15" fill="#111827" stroke="#00d9f5" stroke-width="1.6"/>
+      <circle cx="623.0" cy="220" r="3.5" fill="#00d9f5"/>
+      <text class="m" x="645.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">MySQL</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="180.0 500 220" to="-180.0 500 220" dur="34s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-180.0 640 220" to="180.0 640 220" dur="34s" repeatCount="indefinite"/>
+      <rect x="591.6" y="205" width="96.8" height="30" rx="15" fill="#111827" stroke="#00d9f5" stroke-width="1.6"/>
+      <circle cx="604.6" cy="220" r="3.5" fill="#00d9f5"/>
+      <text class="m" x="645.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">REST APIs</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="270.0 500 220" to="-90.0 500 220" dur="34s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-270.0 640 220" to="90.0 640 220" dur="34s" repeatCount="indefinite"/>
+      <rect x="619.2" y="205" width="41.6" height="30" rx="15" fill="#111827" stroke="#00d9f5" stroke-width="1.6"/>
+      <circle cx="632.2" cy="220" r="3.5" fill="#00d9f5"/>
+      <text class="m" x="645.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Git</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0.0 500 220" to="360.0 500 220" dur="46s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-0.0 695 220" to="-360.0 695 220" dur="46s" repeatCount="indefinite"/>
+      <rect x="665.0" y="205" width="60.0" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-width="1.6"/>
+      <circle cx="678.0" cy="220" r="3.5" fill="#a78bfa"/>
+      <text class="m" x="700.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">GenAI</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="72.0 500 220" to="432.0 500 220" dur="46s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-72.0 695 220" to="-432.0 695 220" dur="46s" repeatCount="indefinite"/>
+      <rect x="674.2" y="205" width="41.6" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-width="1.6"/>
+      <circle cx="687.2" cy="220" r="3.5" fill="#a78bfa"/>
+      <text class="m" x="700.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">RAG</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="144.0 500 220" to="504.0 500 220" dur="46s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-144.0 695 220" to="-504.0 695 220" dur="46s" repeatCount="indefinite"/>
+      <rect x="669.6" y="205" width="50.8" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-width="1.6"/>
+      <circle cx="682.6" cy="220" r="3.5" fill="#a78bfa"/>
+      <text class="m" x="700.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Java</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="216.0 500 220" to="576.0 500 220" dur="46s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-216.0 695 220" to="-576.0 695 220" dur="46s" repeatCount="indefinite"/>
+      <rect x="660.4" y="205" width="69.2" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-width="1.6"/>
+      <circle cx="673.4" cy="220" r="3.5" fill="#a78bfa"/>
+      <text class="m" x="700.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Python</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="288.0 500 220" to="648.0 500 220" dur="46s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-288.0 695 220" to="-648.0 695 220" dur="46s" repeatCount="indefinite"/>
+      <rect x="660.4" y="205" width="69.2" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-width="1.6"/>
+      <circle cx="673.4" cy="220" r="3.5" fill="#a78bfa"/>
+      <text class="m" x="700.0" y="225" text-anchor="middle" font-size="13" fill="#e5e7eb">Docker</text>
+    </g>
+  </g>
+</svg>
